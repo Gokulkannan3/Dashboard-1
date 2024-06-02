@@ -74,8 +74,8 @@ export default function FetchCSVData(props) {
           <div className='chart'>
             <div>
             <BarChart
-                width={700}
-                height={300}
+                width={600}
+                height={400}
                 data={barChartData}
                 margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
             >

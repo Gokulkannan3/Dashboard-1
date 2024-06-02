@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(234, 235, 217);
 }
 
 code {
@@ -20,6 +21,6 @@ code {
 .p{
   text-align: center;
   font-weight: bolder;
-  font-size: larger;
+  font-size: 40px;
   color: rgb(46, 22, 69);
 }
